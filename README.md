@@ -69,10 +69,10 @@
 <!--END_SECTION:waka-->
 
 ### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizi&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizu&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" />
 
 ### 📈 Activity Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=rehanalfarizi&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rehanalfarizu&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -82,10 +82,10 @@
 
 <div align="center">
   <a href="https://github.com/rehanalfarizi/praktikum-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizi&repo=praktikum-6&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=praktikum-6&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/rehanalfarizi/portofolio_cv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizi&repo=portofolio_cv&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=portofolio_new&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -104,7 +104,7 @@
   <a href="https://linkedin.com/in/rehanalfarizi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/rehanalfarizi" target="_blank">
+  <a href="https://instagram.com/rehanalfarizi_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rehanalfarizi@example.com" target="_blank">
@@ -117,9 +117,9 @@
 ## 📊 Profile Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rehanalfarizi&label=Profile%20views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rehanalfarizi?label=Followers&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/rehanalfarizi?label=Stars&style=for-the-badge&color=7C3AED" />
+  <img src="https://komarev.com/ghpvc/?username=rehanalfarizu&label=Profile%20views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rehanalfarizu?label=Followers&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/rehanalfarizu?label=Stars&style=for-the-badge&color=7C3AED" />
 </div>
 
 ---
