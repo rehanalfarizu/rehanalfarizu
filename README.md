@@ -1,19 +1,147 @@
-<h1 align="center">Hi 👋, I'm rehanalfarizu</h1>
-<h3 align="center">saya mahasiswa dari Universitas Amikom Yogyakarta</h3>
+# Hi there! 👋 I'm Reihan Alfarizi
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizu" alt="rehanalfarizu" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello!+I'm+Reihan+Alfarizi;Student+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **vue.js, laravel**
+## 🚀 About Me
+- 🎓 Student passionate about **Information Technology**
+- 💻 Currently learning **Web Development & Mobile Apps**
+- 🌱 Working on **Vue.js**, **PHP**, and **Flutter** projects
+- 👨‍💻 Building **practical applications**
+- 📫 Reach me at: **rehanalfarizi@example.com**
+- ⚡ Fun fact: **I love solving problems with code!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br clear="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehanalfarizu&show_icons=true&locale=en&layout=compact" alt="rehanalfarizu" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehanalfarizu&show_icons=true&locale=en" alt="rehanalfarizu" /></p>
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehanalfarizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanalfarizi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizi&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanalfarizi&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 Snake Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rehanalfarizi/rehanalfarizi/output/snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 🎯 Current Projects & Stats
+
+<div align="center">
+  
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizi&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" />
+
+### 📈 Activity Graph
+<img src="https://activity-graph.herokuapp.com/graph?username=rehanalfarizi&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/rehanalfarizi/praktikum-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizi&repo=praktikum-6&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/rehanalfarizi/portofolio_cv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizi&repo=portofolio_cv&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/rehanalfarizi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rehanalfarizi" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rehanalfarizi@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📊 Profile Stats
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehanalfarizi&label=Profile%20views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rehanalfarizi?label=Followers&style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/stars/rehanalfarizi?label=Stars&style=for-the-badge&color=7C3AED" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <h3>🎉 Thanks for visiting! 🎉</h3>
+  <p>Don't forget to ⭐ star some repositories if you find them interesting!</p>
+</div>
