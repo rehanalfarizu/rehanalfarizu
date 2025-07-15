@@ -17,6 +17,9 @@
 - 📫 Reach me at: **rehanalfarizi@students.amikom.ac.id**
 - ⚡ Fun fact: **I love solving problems with code!**
 
+---
+## 🐍 Snake Animation
+<img src="https://raw.githubusercontent.com/rehanalfarizu/rehanalfarizu/output/snake.svg" alt="Snake animation" />
 <br clear="right"/>
 
 ## 🛠️ Tech Stack
@@ -55,9 +58,6 @@
 </div>
 
 ---
-
-## 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/rehanalfarizu/rehanalfarizu/output/snake.svg" alt="Snake animation" />
 
 ---
 
