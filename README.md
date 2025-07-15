@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Muhammad Raihan Alfarizi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello!+I'm+Reihan+Alfarizi;Student+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello!+I'm+Raihan+Alfarizi;Student+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <div align="center">
