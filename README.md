@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello!+I'm+Reihan+Alfarizi;Student+and+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="">
 
 ## 🚀 About Me
-- 🎓 Student passionate about technology
+- 🎓 Student at Universitas Amikom Yogyakarta
 - 💻 Currently learning **Web Development**
 - 🌱 Working on **Vue.js** and **PHP** projects
 - 👨‍💻 Building **practical applications**
