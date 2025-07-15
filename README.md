@@ -1,18 +1,20 @@
-# Hi there! 👋 I'm Reihan Alfarizi
+# Hi there! 👋 I'm Muhammad Raihan Alfarizi
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello!+I'm+Reihan+Alfarizi;Student+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
+</div>
 
 ## 🚀 About Me
-- 🎓 Student passionate about **Information Technology**
+- 🎓 Student passionate about **Universitas Amikom Yogyakarta**
 - 💻 Currently learning **Web Development & Mobile Apps**
-- 🌱 Working on **Vue.js**, **PHP**, and **Flutter** projects
+- 🌱 Working on **Vue.js**, **PHP**, and **Laravel** projects
 - 👨‍💻 Building **practical applications**
-- 📫 Reach me at: **rehanalfarizi@example.com**
+- 📫 Reach me at: **rehanalfarizi@students.amikom.ac.id**
 - ⚡ Fun fact: **I love solving problems with code!**
 
 <br clear="right"/>
@@ -40,19 +42,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehanalfarizi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanalfarizi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizi&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
@@ -68,9 +57,7 @@
 ---
 
 ## 🐍 Snake Animation
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rehanalfarizi/rehanalfarizi/output/snake.svg" alt="Snake Animation" />
-</div>
+<img src="https://raw.githubusercontent.com/rehanalfarizu/rehanalfarizu/output/snake.svg" alt="Snake animation" />
 
 ---
 
