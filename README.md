@@ -55,10 +55,8 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanalfarizi&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanalfarizu&theme=tokyo-night&hide_border=true&area=true" />
 </div>
-
----
 
 ---
 
