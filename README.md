@@ -21,7 +21,7 @@ Hi there! 👋 I'm Muhammad Raihan Alfarizi
 - ⚡ Fun fact: **I love solving problems with code!**
 
 ---
-## 🐍 Snake Animation
+
 <img src="https://raw.githubusercontent.com/rehanalfarizu/rehanalfarizu/output/snake.svg" alt="Snake animation" />
 <br clear="right"/>
 
