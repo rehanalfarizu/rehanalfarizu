@@ -46,6 +46,7 @@ Hi there! 👋 I'm Muhammad Raihan Alfarizi
 
 </div>
 
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -67,8 +68,8 @@ Hi there! 👋 I'm Muhammad Raihan Alfarizi
 <div align="center">
   
 ### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 ### 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizu&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" />
