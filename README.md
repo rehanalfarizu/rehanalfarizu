@@ -14,13 +14,14 @@
 
 ```yaml
 name: Muhammad Raihan Alfarizi
-location: Srandakan, Yogyakarta, Indonesia
+location: Sidodadi, Prambanan Klaten, Indonesia
 education: Universitas Amikom Yogyakarta
 role: Student & Developer
 focus: 
   - Web Development
   - Mobile Applications
   - Problem Solving
+  - Data Analys
 contact: rehanalfarizi@students.amikom.ac.id
 ```
 
