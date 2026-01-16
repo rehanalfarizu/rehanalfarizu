@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF" />
 
 ---
 
@@ -21,7 +21,7 @@ focus:
   - Web Development
   - Mobile Applications
   - Problem Solving
-  - Data Analys
+  - Data Analysis
 contact: rehanalfarizi@students.amikom.ac.id
 ```
 
@@ -88,7 +88,7 @@ contact: rehanalfarizi@students.amikom.ac.id
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -96,15 +96,20 @@ contact: rehanalfarizi@students.amikom.ac.id
 ## 🌟 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/rehanalfarizu/praktikum-6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=praktikum-6&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/rehanalfarizu/portofolio_cv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=portofolio_cv&theme=tokyonight&hide_border=true" />
-</a>
-
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/rehanalfarizu/praktikum-6">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=praktikum-6&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/rehanalfarizu/portofolio_cv">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=portofolio_cv&theme=tokyonight&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
