@@ -1,82 +1,87 @@
 <div align="center">
-Hi there! 👋 I'm Muhammad Raihan Alfarizi
+
+# 👋 Hi, I'm Muhammad Raihan Alfarizi
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Student+%26+Developer;Web+%26+Mobile+Enthusiast;Problem+Solver+with+Code" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rehanalfarizu&label=Profile%20Views&color=7C3AED&style=flat-square)](https://github.com/rehanalfarizu)
+[![GitHub Followers](https://img.shields.io/github/followers/rehanalfarizu?label=Followers&style=flat-square&color=7C3AED&logo=github)](https://github.com/rehanalfarizu?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/rehanalfarizu?label=Total%20Stars&style=flat-square&color=7C3AED&logo=github)](https://github.com/rehanalfarizu)
+
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello!+I'm+Raihan+Alfarizi;Student+%26+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%; max-width: 500px;" />
-  <br><br>
-</div>
-
-
-## 🚀 About Me
-- 🎓 Student passionate about **Universitas Amikom Yogyakarta**
-- 💻 Currently learning **Web Development & Mobile Apps**
-- 🌱 Working on **Vue.js**, **PHP**, and **Laravel** projects
-- 👨‍💻 Building **practical applications**
-- 📫 Reach me at: **rehanalfarizi@students.amikom.ac.id**
-- ⚡ Fun fact: **I love solving problems with code!**
 
 ---
 
-<img src="https://raw.githubusercontent.com/rehanalfarizu/rehanalfarizu/output/snake.svg" alt="Snake animation" />
-<br clear="right"/>
+## 🚀 About Me
+
+```yaml
+name: Muhammad Raihan Alfarizi
+location: Srandakan, Yogyakarta, Indonesia
+education: Universitas Amikom Yogyakarta
+role: Student & Developer
+focus: 
+  - Web Development
+  - Mobile Applications
+  - Problem Solving
+contact: rehanalfarizi@students.amikom.ac.id
+```
+
+**Currently Working On:**
+- 🎯 Building practical web applications with **Vue.js** and **Laravel**
+- 📱 Developing mobile-friendly solutions
+- 🌱 Learning modern web technologies and best practices
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizi&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanalfarizu&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🎯 Current Projects & Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   
-### 📊 Weekly Development Breakdown
-START_SECTION:waka
-END_SECTION:waka
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehanalfarizu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanalfarizu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizu&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" />
+</div>
 
-### 📈 Activity Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=rehanalfarizu&theme=tokyo-night&hide_border=true&area=true" />
+<div align="center">
+  
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanalfarizu&theme=tokyonight&hide_border=true&fire=DD2727&ring=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
 
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanalfarizu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rehanalfarizu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -84,54 +89,47 @@ END_SECTION:waka
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/rehanalfarizi/praktikum-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=praktikum-6&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/rehanalfarizi/portofolio_cv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=portofolio_new&theme=tokyonight&hide_border=true" />
-  </a>
+
+<a href="https://github.com/rehanalfarizu/praktikum-6">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=praktikum-6&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/rehanalfarizu/portofolio_cv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehanalfarizu&repo=portofolio_cv&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 🌐 Connect With Me
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehanalfarizi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rehanalfarizi_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanalfarizi@students.amikom.ac.id)
+
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 💭 Dev Quote
 
 <div align="center">
-  <a href="https://linkedin.com/in/rehanalfarizi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rehanalfarizi_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:rehanalfarizi@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 📊 Profile Stats
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rehanalfarizu&label=Profile%20views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rehanalfarizu?label=Followers&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/rehanalfarizu?label=Stars&style=for-the-badge&color=7C3AED" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" />
-</div>
+  
+### 🎉 Thanks for Visiting! 🎉
 
-<div align="center">
-  <h3>🎉 Thanks for visiting! 🎉</h3>
-  <p>Don't forget to ⭐ star some repositories if you find them interesting!</p>
+**Don't forget to ⭐ star repositories you find interesting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+
 </div>
