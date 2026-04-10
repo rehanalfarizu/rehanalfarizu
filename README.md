@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Muhammad%20Raihan%20Alfarizi&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Student%20%26%20Developer&descAlignY=58&descSize=16" width="100%"/>
-
-<br/>
+# 👋 Hi, I'm Muhammad Raihan Alfarizi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Student+%26+Developer;Web+%26+Mobile+Enthusiast;Problem+Solver+with+Code" alt="Typing SVG" />
 
-</div>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF" />
 
 ---
-
 ## 🚀 About Me
 
 ```yaml
