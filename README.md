@@ -97,18 +97,15 @@ Sistem pendaftaran dan monitoring magang mahasiswa Prodi Informatika AMIKOM, dik
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,jupyter,vue,vite,js,php,laravel,mysql,cs,unity,git,github,vscode&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,vue,vite,js,php,laravel,mysql,cs,unity,git,github,vscode&theme=dark" alt="Tech stack" />
 
 </div>
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 Aktivitas GitHub
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rehanalfarizu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rehanalfarizu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=rehanalfarizu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
