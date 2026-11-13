@@ -1,0 +1,29 @@
+# Memperbarui kartu statistik di README.
+# Hanya berjalan saat dipicu manual: tab Actions > Perbarui statistik > Run workflow.
+# Commit dibuat atas nama pemilik akun, bukan bot.
+name: Perbarui statistik
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Buat kartu statistik
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+      - name: Commit jika berubah
+        run: |
+          git config user.name "rehanalfarizu"
+          git config user.email "163230285+rehanalfarizu@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg
+          git diff --cached --quiet || (git commit -m "Perbarui kartu statistik" && git push)

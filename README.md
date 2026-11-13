@@ -1,114 +1,104 @@
-<div align="center">
+<p align="center">
+  <img src="assets/divider.svg" width="600" alt="" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Muhammad%20Raihan%20Alfarizi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Digital%20Twin%20%C2%B7%20IoT%20%C2%B7%20Data%20Mining&descSize=18&descAlignY=58" width="100%" alt="Header" />
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Ilustrasi Digital Twin: gedung dengan sensor IoT yang mengirim data ke edge, cloud, dan dashboard" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=40&lines=Mahasiswa+Informatika+Universitas+Amikom+Yogyakarta;Meneliti+Digital+Twin+untuk+Energi+Bangunan+Cerdas;IoT+%7C+Prediksi+Daya+%7C+Visualisasi+3D+Web" alt="Typing SVG" />
+<h3 align="center">Menghubungkan ruang fisik dengan kembaran digitalnya, satu sensor dalam satu waktu.</h3>
 
-<br/>
+### Halo 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=rehanalfarizu&label=Profile+Views&color=7C3AED&style=flat-square)
-![Followers](https://img.shields.io/github/followers/rehanalfarizu?label=Followers&style=flat-square&color=7C3AED)
+<img align="right" src="assets/twin.svg" width="230" alt="Globe berputar" />
 
-📫 **rehanalfarizi@students.amikom.ac.id**
+Saya **Muhammad Raihan Alfarizi**, mahasiswa Informatika di **Universitas Amikom Yogyakarta** 🇮🇩
 
-</div>
+Saya meneliti **Digital Twin untuk manajemen energi bangunan cerdas**: data sensor IoT dikumpulkan, diolah di edge dan cloud, lalu ditampilkan sebagai model 3D di web.
+Tujuan saya adalah **membuat konsumsi energi bangunan terlihat, terukur, dan bisa diprediksi.** ⚡
 
----
+Saya tertarik pada:
 
-## 🚀 Fokus Saat Ini
+- Digital Twin & visualisasi 3D web 🌐
+- IoT & sistem tertanam 📡
+- Data mining & machine learning 📊
 
-| Bidang | Aktivitas |
+<br clear="right" />
+
+## Status Saat Ini
+
+<img align="right" src="assets/iot.svg" width="240" alt="Pulau isometrik dengan gedung, panel surya, dan antena IoT" />
+
+👉 Meneliti kerangka **Digital Twin canonical-state** untuk prediksi daya ruangan yang sadar okupansi 🔬
+
+👉 Mengembangkan dashboard Digital Twin dengan **Vue, Cesium, dan Babylon.js** 🏢
+
+👉 Mengolah data sensor dari **ESP32 dan Raspberry Pi** 📡
+
+👉 Mendalami **big data, machine learning, dan fullstack development** 💻
+
+`Update Mei 2026:` Mengumpulkan data sensor IoT selama 20–24 Mei 2026 untuk [prediksi konsumsi daya](https://github.com/rehanalfarizu/digital-twin-iot-power-prediction).
+
+`Update Nov 2026:` Menyelesaikan tahap 2–6 eksperimen di repo riset [new_jurnal](https://github.com/rehanalfarizu/new_jurnal).
+
+<br clear="right" />
+
+## GitHub Stats 👨‍💻
+
+<p align="center">
+  <img src="assets/stats.svg" height="165" alt="Statistik GitHub" />
+  <img src="https://streak-stats.demolab.com?user=rehanalfarizu&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="assets/langs.svg" height="165" alt="Bahasa terbanyak" />
+</p>
+
+## Skills 🌱
+
+<details>
+<summary>Lihat skills</summary>
+<br />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vue,vite,js,php,laravel,mysql,cs,unity,git,github,vscode&theme=dark" alt="Tech stack" />
+</p>
+
+| Bidang | Teknologi |
 | --- | --- |
-| 🏢 **Digital Twin Web-3D** | Monitoring energi dan okupansi ruangan (Vue, Cesium, Babylon.js) |
-| 📡 **IoT Pipeline** | ESP32 dan Raspberry Pi sebagai akuisisi dan gateway data sensor |
-| ⚡ **Prediksi Daya** | Machine learning dan analisis time series untuk konsumsi listrik |
-| ☁️ **Edge–Cloud** | Evaluasi kinerja arsitektur multiskala |
+| Data & ML | Python, Jupyter, PySpark, TensorFlow, Streamlit |
+| Web | Vue, Vite, JavaScript, PHP, Laravel, MySQL |
+| 3D & Digital Twin | Cesium, Babylon.js, Unity (C#) |
+| IoT | ESP32, Raspberry Pi |
 
----
+</details>
 
-## 📌 Proyek Unggulan
+## Proyek & Riset 🔥
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary>Lihat proyek unggulan</summary>
+<br />
 
-### 🔬 [new_jurnal](https://github.com/rehanalfarizu/new_jurnal)
-Kerangka Digital Twin berbasis canonical state untuk prediksi daya ruangan yang sadar okupansi, lengkap dengan artefak reproduksibilitas.
+| Proyek | Ringkasan | Teknologi |
+| --- | --- | --- |
+| 🔬 [new_jurnal](https://github.com/rehanalfarizu/new_jurnal) | Kerangka Digital Twin canonical-state untuk prediksi daya ruangan yang sadar okupansi | Python, Jupyter |
+| ☁️ [jurnal_penelitian](https://github.com/rehanalfarizu/jurnal_penelitian) | Arsitektur edge–cloud dengan fusi data multimodal untuk Digital Twin Web-3D | Python, Jupyter |
+| 🏢 [digital-twin](https://github.com/rehanalfarizu/digital-twin) | Dashboard Digital Twin untuk monitoring lingkungan real-time lewat IoT | Vue, Vite |
+| ⚡ [digital-twin-iot-power-prediction](https://github.com/rehanalfarizu/digital-twin-iot-power-prediction) | Prediksi daya listrik dari data sensor IoT dengan dashboard Streamlit | Python, Streamlit |
+| 🚚 [mining-digitaltwin-3d-design](https://github.com/rehanalfarizu/mining-digitaltwin-3d-design) | Model 3D truk tambang dengan skrip kamera dan pergerakan | Unity, C# |
+| 🎓 [website-magang](https://github.com/rehanalfarizu/website-magang) | Sistem pendaftaran dan monitoring magang Prodi Informatika AMIKOM (proyek tim) | Laravel, PHP |
 
-`Python` `Jupyter`
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-### ☁️ [jurnal_penelitian](https://github.com/rehanalfarizu/jurnal_penelitian)
-Strategi arsitektur edge–cloud dengan fusi data multimodal untuk Digital Twin Web-3D.
-
-`Python` `Jupyter`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 [digital-twin](https://github.com/rehanalfarizu/digital-twin)
-Dashboard Digital Twin untuk memonitor kondisi lingkungan real-time lewat IoT dan model virtual.
-
-`Vue` `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [digital-twin-iot-power-prediction](https://github.com/rehanalfarizu/digital-twin-iot-power-prediction)
-Prediksi daya listrik dari data sensor IoT dengan regresi, dilengkapi dashboard Streamlit.
-
-`Python` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚚 [mining-digitaltwin-3d-design](https://github.com/rehanalfarizu/mining-digitaltwin-3d-design)
-Proyek Unity berisi model 3D truk tambang dengan skrip kamera dan pergerakan untuk visualisasi Digital Twin.
-
-`Unity` `C#`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [website-magang](https://github.com/rehanalfarizu/website-magang)
-Sistem pendaftaran dan monitoring magang mahasiswa Prodi Informatika AMIKOM, dikerjakan dalam tim.
-
-`Laravel` `PHP`
-
-</td>
-</tr>
-</table>
-
-### 🧠 Data Mining dan Machine Learning
+<details>
+<summary>Lihat proyek data mining & machine learning</summary>
+<br />
 
 - [big-data-mining-](https://github.com/rehanalfarizu/big-data-mining-): predictive dan descriptive analytics
 - [stackoverflow-analytics-pyspark-nlp](https://github.com/rehanalfarizu/stackoverflow-analytics-pyspark-nlp): analitik big data dengan PySpark dan NLP
 - [Deteksi Anomali Log Sistem](https://github.com/rehanalfarizu/-Deteksi-Anomali-Log-Sistem-Menggunakan-Model-Sequence-Berbasis-Deep-Learning): deteksi anomali dengan model sequence deep learning
 
----
+</details>
 
-## 🛠️ Tech Stack
+<h3 align="center">📫 <a href="mailto:rehanalfarizi@students.amikom.ac.id">rehanalfarizi@students.amikom.ac.id</a></h3>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,vue,vite,js,php,laravel,mysql,cs,unity,git,github,vscode&theme=dark" alt="Tech stack" />
-
-</div>
-
----
-
-## 📊 Aktivitas GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rehanalfarizu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%" alt="Footer" />
+<p align="center">
+  <img src="assets/divider.svg" width="600" alt="" />
+</p>
